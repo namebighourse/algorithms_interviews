@@ -24,6 +24,7 @@
      - [Two Sum](https://leetcode.com/problems/two-sum/)
      - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
      - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- **Обьяснение решения**:
 
 ---
 
@@ -33,6 +34,7 @@
      - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
      - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
      - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+ - **Обьяснение решения**:
 
 ---
 
@@ -42,7 +44,7 @@
      - [Binary Search](https://leetcode.com/problems/binary-search/)
      - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
      - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-
+ - **Обьяснение решения**:
 ---
 
 ## 4. Динамическое программирование (Dynamic Programming) <a name="динамическое-программирование-dynamic-programming"></a>
@@ -51,6 +53,7 @@
      - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
      - [Coin Change](https://leetcode.com/problems/coin-change/)
      - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+ - **Обьяснение решения**:
 
 ---
 
@@ -60,6 +63,7 @@
      - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
      - [Jump Game](https://leetcode.com/problems/jump-game/)
      - [Gas Station](https://leetcode.com/problems/gas-station/)
+- **Обьяснение решения**:
 
 ---
 
@@ -69,6 +73,7 @@
      - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
      - [Subsets](https://leetcode.com/problems/subsets/)
      - [Permutations](https://leetcode.com/problems/permutations/)
+ - **Обьяснение решения**:
 
 ---
 
@@ -78,6 +83,7 @@
      - [Two Sum](https://leetcode.com/problems/two-sum/)
      - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
      - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- **Обьяснение решения**:
 
 ---
 
@@ -87,6 +93,7 @@
      - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
      - [Min Stack](https://leetcode.com/problems/min-stack/)
      - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+ - **Обьяснение решения**:
 
 ---
 
@@ -95,6 +102,7 @@
    - **Примеры задач**:
      - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
      - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+ - **Обьяснение решения**:
 
 ---
 
@@ -104,6 +112,7 @@
      - [Single Number](https://leetcode.com/problems/single-number/)
      - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
      - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+ - **Обьяснение решения**:
 
 ---
 
